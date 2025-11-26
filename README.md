@@ -1,26 +1,25 @@
-# Customer_Behavior_Analysis (Python+SQL+PowerBI)
-End-to-end analysis of customer spending trends using Python, SQL &amp; Power BI.
+🛒 Customer Behavior Analysis (Python + SQL + Power BI)
 
-🛒 Customer Shopping Behavior Analysis
+End-to-end analysis of customer spending trends using Python, SQL & Power BI.
+
 📌 Overview
 
-This project analyzes how customers shop across different product categories to identify spending trends, subscription behavior, product demand, and revenue patterns.
-The workflow includes Python for data cleaning, PostgreSQL for business queries, and Power BI for dashboard visualization.
+This project analyzes customer shopping behavior across different product categories to uncover spending trends, subscription patterns, product demand, and revenue drivers.
+It follows an end-to-end workflow using Python for data cleaning, PostgreSQL for structured business queries, and Power BI for dashboard visualization.
 
-🧰 Tech Stack
+🎯 Objectives
 
-Python (Pandas, NumPy, Matplotlib) – Data cleaning & EDA
+✔ Understand customer purchase trends
+✔ Compare spending across demographics
+✔ Identify high-value customers & subscribers
+✔ Evaluate the impact of discounts on revenue
 
-PostgreSQL – Querying business metrics
+🧰 Tools & Skills
+Category	Tools / Skills
+Python	Pandas, NumPy, Matplotlib (Data cleaning & EDA)
+SQL (PostgreSQL)	Data loading, filtering, business queries
+Power BI	Visualizations, KPIs, interactive dashboard
+Data Skills	Data cleaning, EDA, feature engineering, business analysis
 
-Power BI – Interactive dashboard & visuals
-
-🔍 Objectives
-
-Understand customer purchase trends
-
-Compare spending across demographics
-
-Identify high-value products & subscriber behavior
-
-Evaluate the impact of discounts on revenue
+📊 Dashboard Preview
+(Insert your dashboard screenshot here)
