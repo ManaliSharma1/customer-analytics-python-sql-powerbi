@@ -29,5 +29,8 @@ It follows an end-to-end workflow using **Python for data cleaning**, **PostgreS
 ---
 
 ### 📊 **Dashboard Preview**
-*(Insert your dashboard screenshot here)*
+Here is a visual summary of the customer behavior analysis:
+
+![Dashboard](dashboard.png)
+
 
